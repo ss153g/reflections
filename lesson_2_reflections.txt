@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+	Initialize a directory makes it part of git and therefore we can run git functions on.
+	We need it so we can commit changes to it.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	The staging area is where we setup the files we need to be part of a respository (bundled) whereas the working directory can consist of many other files not part of the repository.
+
