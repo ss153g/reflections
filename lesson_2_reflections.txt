@@ -5,3 +5,9 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 	The staging area is where we setup the files we need to be part of a respository (bundled) whereas the working directory can consist of many other files not part of the repository.
 
+How can you use the staging area to make sure you have one commit per logical change?
+	You can only add files to the staging area that are part of the logical changes.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	Branches can help create a separate paths for the main branch w/o effecting the main branch.
+
